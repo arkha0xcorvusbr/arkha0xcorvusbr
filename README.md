@@ -26,7 +26,7 @@ Discord: b0cchibr
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="h0udinnibr's GitHub profile" src="dark_mode.svg" />
+  <img alt="arkha0xcorvusbr's GitHub profile" src="dark_mode.svg" />
 </picture>
 
 <div align="center">
