@@ -23,6 +23,12 @@ LinkedIn: [nicolas-santos-security](https://www.linkedin.com/in/nicolas-santos-s
 Discord: b0cchibr
 
 ### My Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="arkha0xcorvusbr's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 
 <div align="center">
 
